@@ -1,0 +1,17 @@
+.text {
+  color: #BCBCBC;
+  text-align: center;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+.container {
+  text-align: center;
+}
+
+.link {
+  color: #81FE88;
+  text-decoration: none;
+}
