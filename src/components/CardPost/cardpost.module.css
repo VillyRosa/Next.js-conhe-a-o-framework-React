@@ -41,9 +41,19 @@
 
 .footer {
   padding: 16px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer p {
+  margin: 0;
+  color: #888;
+  font-size: 15px;
+  text-align: center;
 }
 
 .link {
-  text-decoration: none;
+  text-decoration: underline;
   cursor: pointer;
+  color: #81FE88;
 }
